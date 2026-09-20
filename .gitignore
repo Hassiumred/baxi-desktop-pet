@@ -1,0 +1,27 @@
+# Local environments / caches
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+# Build output / logs
+build/
+dist/
+*.spec
+*.log
+*.exe
+*.dll
+*.zip
+# Secrets / machine state
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Unreviewed art stays excluded until rights review is complete
+app/assets/baxi/actions/
