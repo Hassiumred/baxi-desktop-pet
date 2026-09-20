@@ -1,0 +1,305 @@
+{
+  "action": "observe_sit",
+  "version": "v0_6",
+  "canvas": [
+    1024,
+    1024
+  ],
+  "foot_anchor": [
+    512,
+    914
+  ],
+  "bbox_out_format": "xywh",
+  "fps_suggested": 6,
+  "looping": "one_shot_return_idle",
+  "frames": [
+    {
+      "frame": 1,
+      "file": "frames/baxi_observe_sit_v0_6_001.png",
+      "bbox_out": [
+        369,
+        355,
+        316,
+        560
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 1,
+      "sha256": "642b29b028e6eabd6bf5aaf71198f6172544c829496fa6e57c140e84799852ee"
+    },
+    {
+      "frame": 2,
+      "file": "frames/baxi_observe_sit_v0_6_002.png",
+      "bbox_out": [
+        338,
+        355,
+        364,
+        560
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 2,
+      "sha256": "d40a4fbbd9ed6e1e122f8c3431289886c55c48fb87c82188db229ad5511e307c"
+    },
+    {
+      "frame": 3,
+      "file": "frames/baxi_observe_sit_v0_6_003.png",
+      "bbox_out": [
+        268,
+        355,
+        443,
+        560
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 3,
+      "sha256": "59bc8ee0a03f8ebfe3ef3c884b9a87987b2dae0903c20b48b05a5fb11d594d8b"
+    },
+    {
+      "frame": 4,
+      "file": "frames/baxi_observe_sit_v0_6_004.png",
+      "bbox_out": [
+        255,
+        355,
+        462,
+        560
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 4,
+      "sha256": "108e7378554a3e39c422717e0db5b63ae2c1765073d948c30ed26f3b38a8ef5f"
+    },
+    {
+      "frame": 5,
+      "file": "frames/baxi_observe_sit_v0_6_005.png",
+      "bbox_out": [
+        247,
+        355,
+        475,
+        560
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 5,
+      "sha256": "1814efc1dfd255e00d3c22f2d19c2825a13dd23c06a9ea1f598efc97fd3ea219"
+    },
+    {
+      "frame": 6,
+      "file": "frames/baxi_observe_sit_v0_6_006.png",
+      "bbox_out": [
+        256,
+        355,
+        466,
+        560
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 6,
+      "sha256": "cdbb29e5533b70ec0a1f3b69d4dbcadb7c919c7a756969647a00d9c17442eb65"
+    },
+    {
+      "frame": 7,
+      "file": "frames/baxi_observe_sit_v0_6_007.png",
+      "bbox_out": [
+        262,
+        355,
+        458,
+        560
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 7,
+      "sha256": "260326b16db81fde160f568a5e918d2b101670f5ee53bbb716ad23683eb8bc60"
+    },
+    {
+      "frame": 8,
+      "file": "frames/baxi_observe_sit_v0_6_008.png",
+      "bbox_out": [
+        267,
+        355,
+        455,
+        560
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 8,
+      "sha256": "af8ddcb3be1198fa39fcef313e05a741cad6a49a85d8abcf2f143b5ab9d610f3"
+    },
+    {
+      "frame": 9,
+      "file": "frames/baxi_observe_sit_v0_6_009.png",
+      "bbox_out": [
+        262,
+        356,
+        464,
+        559
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 9,
+      "sha256": "892a38d6fda120f2261fc9a71be47c5a32d616e8841606f748c0cfc72f0d1d23"
+    },
+    {
+      "frame": 10,
+      "file": "frames/baxi_observe_sit_v0_6_010.png",
+      "bbox_out": [
+        277,
+        355,
+        443,
+        560
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 10,
+      "sha256": "4b61b17260e025f0d8668a17a12711d6e82ed914c8902531711d4e5a85aeae72"
+    },
+    {
+      "frame": 11,
+      "file": "frames/baxi_observe_sit_v0_6_011.png",
+      "bbox_out": [
+        298,
+        355,
+        419,
+        560
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 11,
+      "sha256": "d1b424e13213fcf5f7aac79edadd73f5056ac6f0dec4094c774d68e2f39e605c"
+    },
+    {
+      "frame": 12,
+      "file": "frames/baxi_observe_sit_v0_6_012.png",
+      "bbox_out": [
+        325,
+        355,
+        384,
+        560
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 12,
+      "sha256": "04c6f6bede431608b1ee0cad0ca9d5491001b89d0d672b3e9a2b5dacb63d055e"
+    },
+    {
+      "frame": 13,
+      "file": "frames/baxi_observe_sit_v0_6_013.png",
+      "bbox_out": [
+        333,
+        355,
+        372,
+        560
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 13,
+      "sha256": "9495f03a13ca761e09d8e8d112fb1a1397489def14e5efcc0ccb69ac5fa6e5c6"
+    },
+    {
+      "frame": 14,
+      "file": "frames/baxi_observe_sit_v0_6_014.png",
+      "bbox_out": [
+        335,
+        355,
+        370,
+        560
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 14,
+      "sha256": "69c93572879b752a5ddd7ef7b68cbf4401a70b77832c5df94952bfdf3cfe4d94"
+    },
+    {
+      "frame": 15,
+      "file": "frames/baxi_observe_sit_v0_6_015.png",
+      "bbox_out": [
+        323,
+        355,
+        391,
+        560
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 15,
+      "sha256": "46b782c19e7e4f8a08f86a4b2f353820d70e78335d5122d2f8df96da039fbe26"
+    },
+    {
+      "frame": 16,
+      "file": "frames/baxi_observe_sit_v0_6_016.png",
+      "bbox_out": [
+        322,
+        355,
+        393,
+        560
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 16,
+      "sha256": "407eec26b41ec24c5cac2ba7b16b9b050d192bc19126aac7d82c49c4ce799b8f"
+    },
+    {
+      "frame": 17,
+      "file": "frames/baxi_observe_sit_v0_6_017.png",
+      "bbox_out": [
+        323,
+        355,
+        390,
+        560
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 17,
+      "sha256": "3be56fdc116ea09d1fe431bbbbb5a00183eb7df4668b49ea4e9d5b5f6274b3b6"
+    },
+    {
+      "frame": 18,
+      "file": "frames/baxi_observe_sit_v0_6_018.png",
+      "bbox_out": [
+        323,
+        355,
+        390,
+        560
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 18,
+      "sha256": "f73e8ac9f585b654813a8b27d077b7e7df0a1e4e391520565f72c57411b84de5"
+    }
+  ]
+}

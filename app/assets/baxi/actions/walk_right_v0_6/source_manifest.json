@@ -1,0 +1,305 @@
+{
+  "action": "walk_right",
+  "version": "v0_6",
+  "canvas": [
+    1024,
+    1024
+  ],
+  "foot_anchor": [
+    512,
+    914
+  ],
+  "bbox_out_format": "xywh",
+  "fps_suggested": 6,
+  "looping": "soft_loop",
+  "frames": [
+    {
+      "frame": 1,
+      "file": "frames/baxi_walk_right_v0_6_001.png",
+      "bbox_out": [
+        266,
+        521,
+        492,
+        394
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 1,
+      "sha256": "d558d012f5e145e79c403e34bb375d0ba796cdf87bb3d902114a7d6c287398a8"
+    },
+    {
+      "frame": 2,
+      "file": "frames/baxi_walk_right_v0_6_002.png",
+      "bbox_out": [
+        273,
+        510,
+        479,
+        405
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 2,
+      "sha256": "6453402575981f77537b82d4e7de24461db9982bd157d457fce3ec2a316f1919"
+    },
+    {
+      "frame": 3,
+      "file": "frames/baxi_walk_right_v0_6_003.png",
+      "bbox_out": [
+        269,
+        517,
+        486,
+        398
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 3,
+      "sha256": "b5b1bceddf7fc3917a4d4dd6ce4e95b7d26912b3c1c00098a8400954a863236b"
+    },
+    {
+      "frame": 4,
+      "file": "frames/baxi_walk_right_v0_6_004.png",
+      "bbox_out": [
+        277,
+        504,
+        471,
+        411
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 4,
+      "sha256": "2e01793fef08f1e9708890eea2b2c6f08c2d5030b485848a5b7c048ddce082c7"
+    },
+    {
+      "frame": 5,
+      "file": "frames/baxi_walk_right_v0_6_005.png",
+      "bbox_out": [
+        274,
+        509,
+        477,
+        406
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 5,
+      "sha256": "9bd2b54bc60062285babf8943f217a290777d907e8a8c9867efd45460a31a65d"
+    },
+    {
+      "frame": 6,
+      "file": "frames/baxi_walk_right_v0_6_006.png",
+      "bbox_out": [
+        267,
+        521,
+        491,
+        394
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 6,
+      "sha256": "4827307bc1ffcc605660b6912646cfd7034919fe78b07d049f06b23b5d185f92"
+    },
+    {
+      "frame": 7,
+      "file": "frames/baxi_walk_right_v0_6_007.png",
+      "bbox_out": [
+        271,
+        515,
+        483,
+        400
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 7,
+      "sha256": "89bb8b764e60e95aca6540450ce042b62897e625f157d6ed8ff02cb6ebbef8d2"
+    },
+    {
+      "frame": 8,
+      "file": "frames/baxi_walk_right_v0_6_008.png",
+      "bbox_out": [
+        265,
+        523,
+        494,
+        392
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 8,
+      "sha256": "ba15e242be1d7259120b2a3364e6077585cc3915281028bcc2ae52ce6fc95a7b"
+    },
+    {
+      "frame": 9,
+      "file": "frames/baxi_walk_right_v0_6_009.png",
+      "bbox_out": [
+        270,
+        516,
+        485,
+        399
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 9,
+      "sha256": "ecf1bfb417f741a7a27ce89b624b7734b6d2de751c16b0b4156b8a895d2e6ec4"
+    },
+    {
+      "frame": 10,
+      "file": "frames/baxi_walk_right_v0_6_010.png",
+      "bbox_out": [
+        268,
+        518,
+        488,
+        397
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 10,
+      "sha256": "2f0c350f048bf337fc6e9dc434e83b349c3f44a2cd09fae5dd281a2063932070"
+    },
+    {
+      "frame": 11,
+      "file": "frames/baxi_walk_right_v0_6_011.png",
+      "bbox_out": [
+        263,
+        527,
+        498,
+        388
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 11,
+      "sha256": "956e7c4e9d210f7e2b99e717eca3aab76ea65d2ea2d07dbf3f549aaa088fd1dd"
+    },
+    {
+      "frame": 12,
+      "file": "frames/baxi_walk_right_v0_6_012.png",
+      "bbox_out": [
+        261,
+        529,
+        502,
+        386
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 12,
+      "sha256": "1ae379fdb3f92b131608596044c78af986b03ecfab6556184b879a89ad7dfd93"
+    },
+    {
+      "frame": 13,
+      "file": "frames/baxi_walk_right_v0_6_013.png",
+      "bbox_out": [
+        252,
+        543,
+        520,
+        372
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 13,
+      "sha256": "5a4dc1d2b169ce149f2d4cdc3bfb7eb753100313fb3aaeef53c2f5b755b457a7"
+    },
+    {
+      "frame": 14,
+      "file": "frames/baxi_walk_right_v0_6_014.png",
+      "bbox_out": [
+        249,
+        548,
+        527,
+        367
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 14,
+      "sha256": "e288c2608b3159841e757c5758317c7694acdfad7f149c586d110066189a7fe2"
+    },
+    {
+      "frame": 15,
+      "file": "frames/baxi_walk_right_v0_6_015.png",
+      "bbox_out": [
+        243,
+        556,
+        539,
+        359
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 15,
+      "sha256": "45b65ba5960d50f4f24f8907de09eb0b0a3cc71d808cc67ef7e2446cd7d57c13"
+    },
+    {
+      "frame": 16,
+      "file": "frames/baxi_walk_right_v0_6_016.png",
+      "bbox_out": [
+        228,
+        574,
+        568,
+        341
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 16,
+      "sha256": "b2e10f5fb6d866479b7c8081319f410b1950b205be600215d564d978e1fa74bc"
+    },
+    {
+      "frame": 17,
+      "file": "frames/baxi_walk_right_v0_6_017.png",
+      "bbox_out": [
+        228,
+        575,
+        569,
+        340
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 17,
+      "sha256": "2afb42b6f2c747a7f16da09b4edbec34cfdcf3d6223b964c653f7af4c32a4f8b"
+    },
+    {
+      "frame": 18,
+      "file": "frames/baxi_walk_right_v0_6_018.png",
+      "bbox_out": [
+        222,
+        582,
+        581,
+        333
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 18,
+      "sha256": "18fec0b92dca4c7905869e4a62ba4d9fe8b4b48b480640daeeb7435ad0273f8f"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "action": "groom_paw",
+  "version": "paw_v0_7",
+  "canvas": [
+    1024,
+    1024
+  ],
+  "foot_anchor": [
+    512,
+    914
+  ],
+  "bbox_out_format": "xywh",
+  "fps_suggested": 6,
+  "looping": "one_shot_return_idle",
+  "frames": [
+    {
+      "frame": 1,
+      "file": "frames/baxi_groom_paw_v0_7_001.png",
+      "bbox_out": [
+        244,
+        275,
+        534,
+        639
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 1,
+      "sha256": "1af1e6652c4d87e35bb496bb16ec602a9e94df72965d7c629f599c9198503ba8"
+    },
+    {
+      "frame": 2,
+      "file": "frames/baxi_groom_paw_v0_7_002.png",
+      "bbox_out": [
+        244,
+        301,
+        535,
+        613
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 5,
+      "sha256": "369cb15438369279b3f0fab5d79cd3fa66d1aefba470dada17213736f1e5cb19"
+    },
+    {
+      "frame": 3,
+      "file": "frames/baxi_groom_paw_v0_7_003.png",
+      "bbox_out": [
+        244,
+        315,
+        535,
+        599
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 9,
+      "sha256": "1f8e6afb85e3cea08afbe330c2733fedae594dd54ac56a07d09be90de45416d9"
+    },
+    {
+      "frame": 4,
+      "file": "frames/baxi_groom_paw_v0_7_004.png",
+      "bbox_out": [
+        244,
+        277,
+        535,
+        637
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 13,
+      "sha256": "febbdf25b35916c6ce18c9bce4e1db49bec019de87ec9c2be2d9af0652f124b9"
+    },
+    {
+      "frame": 5,
+      "file": "frames/baxi_groom_paw_v0_7_005.png",
+      "bbox_out": [
+        244,
+        277,
+        535,
+        637
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 17,
+      "sha256": "81efca90531d45a2dcb4f9c0d7c227353da14033a6f6a64938f197243acac5d4"
+    },
+    {
+      "frame": 6,
+      "file": "frames/baxi_groom_paw_v0_7_006.png",
+      "bbox_out": [
+        244,
+        277,
+        535,
+        637
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 21,
+      "sha256": "53efbecb6a483adf0b99c5dedaeebe4a30a2adba9ae70dcf78479b1dd6679a0a"
+    },
+    {
+      "frame": 7,
+      "file": "frames/baxi_groom_paw_v0_7_007.png",
+      "bbox_out": [
+        244,
+        301,
+        535,
+        613
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 25,
+      "sha256": "b73bfb6401328298db7c09b8b73bbbca83ff87c8ded0745b3e6b33963955ceb1"
+    },
+    {
+      "frame": 8,
+      "file": "frames/baxi_groom_paw_v0_7_008.png",
+      "bbox_out": [
+        244,
+        279,
+        535,
+        635
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 29,
+      "sha256": "d4115bb8a1ed0132a87dff9758c57cab75f9a0823a89bb3d7891f3c89530dc95"
+    },
+    {
+      "frame": 9,
+      "file": "frames/baxi_groom_paw_v0_7_009.png",
+      "bbox_out": [
+        244,
+        278,
+        535,
+        636
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 33,
+      "sha256": "fca78d43da022dc51d5eb5f2b7d6a0456d3ed3cc6512289248ebd0594ab44b3a"
+    },
+    {
+      "frame": 10,
+      "file": "frames/baxi_groom_paw_v0_7_010.png",
+      "bbox_out": [
+        244,
+        278,
+        535,
+        636
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 37,
+      "sha256": "6b6de6c3b57a4f9cfe002b0a3ca37118f43abf3b697a3dbb1c7ba5edea57ec5e"
+    },
+    {
+      "frame": 11,
+      "file": "frames/baxi_groom_paw_v0_7_011.png",
+      "bbox_out": [
+        244,
+        248,
+        535,
+        666
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 41,
+      "sha256": "ac4375b5a630958df7a68b9300b4d50d70309c8d295066638fbed4289e99c76a"
+    },
+    {
+      "frame": 12,
+      "file": "frames/baxi_groom_paw_v0_7_012.png",
+      "bbox_out": [
+        244,
+        320,
+        535,
+        594
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 45,
+      "sha256": "698b9f4f99d2913ebfcf7c15558bdad1a32fd9c8d94a85580292e6d925315556"
+    },
+    {
+      "frame": 13,
+      "file": "frames/baxi_groom_paw_v0_7_013.png",
+      "bbox_out": [
+        244,
+        331,
+        535,
+        583
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 49,
+      "sha256": "45d8342ba11f2dc03812f8ef2768436b7cbef0c6bb3a148c32cae993e62caa46"
+    },
+    {
+      "frame": 14,
+      "file": "frames/baxi_groom_paw_v0_7_014.png",
+      "bbox_out": [
+        244,
+        305,
+        535,
+        609
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 53,
+      "sha256": "5d6a6b3600faf12e58dd1be1c752281295eadfa4e2339387c111fc3be62a1755"
+    },
+    {
+      "frame": 15,
+      "file": "frames/baxi_groom_paw_v0_7_015.png",
+      "bbox_out": [
+        244,
+        290,
+        535,
+        624
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 57,
+      "sha256": "d9be7e7f168f61ff7927ad30936b283b832a1e92a0e54bfdd50856325096ba79"
+    },
+    {
+      "frame": 16,
+      "file": "frames/baxi_groom_paw_v0_7_016.png",
+      "bbox_out": [
+        244,
+        290,
+        535,
+        624
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 61,
+      "sha256": "75be45974abbfe2b66c3bfa0bb4b6b5c78aadc6b126d6937385a4594c9f50658"
+    },
+    {
+      "frame": 17,
+      "file": "frames/baxi_groom_paw_v0_7_017.png",
+      "bbox_out": [
+        244,
+        332,
+        535,
+        582
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 65,
+      "sha256": "12d78add799ec9802a5c7a8943186619e3c45f3572b91f62d9f75e901845cdf7"
+    },
+    {
+      "frame": 18,
+      "file": "frames/baxi_groom_paw_v0_7_018.png",
+      "bbox_out": [
+        244,
+        248,
+        535,
+        666
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 69,
+      "sha256": "5ba0c489ceefddba400892167b6dff0474d83bfee2967f060429b2b73183a56d"
+    }
+  ]
+}

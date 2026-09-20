@@ -1,0 +1,305 @@
+{
+  "action": "dance_03",
+  "version": "v0_9",
+  "canvas": [
+    1024,
+    1024
+  ],
+  "foot_anchor": [
+    512,
+    914
+  ],
+  "bbox_out_format": "xywh",
+  "fps_suggested": 6,
+  "looping": "one_shot_return_idle",
+  "frames": [
+    {
+      "frame": 1,
+      "file": "frames/baxi_dance_03_v0_9_hotfix3_001.png",
+      "bbox_out": [
+        305,
+        493,
+        414,
+        422
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 0,
+      "sha256": "903a4dd613a8c7acbd867063130cc14946565750c177015011841cab91505f4f"
+    },
+    {
+      "frame": 2,
+      "file": "frames/baxi_dance_03_v0_9_hotfix3_002.png",
+      "bbox_out": [
+        306,
+        486,
+        413,
+        429
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 1,
+      "sha256": "c207cc2fe01ae23e045f775d16aa77b5d43826361446c3cae0331baef73fb943"
+    },
+    {
+      "frame": 3,
+      "file": "frames/baxi_dance_03_v0_9_hotfix3_003.png",
+      "bbox_out": [
+        306,
+        480,
+        413,
+        435
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 2,
+      "sha256": "e3e3f7c788a58befc866f6c766423727b92e42e98afd24692d7bd0f80c3a9c08"
+    },
+    {
+      "frame": 4,
+      "file": "frames/baxi_dance_03_v0_9_hotfix3_004.png",
+      "bbox_out": [
+        307,
+        481,
+        410,
+        434
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 3,
+      "sha256": "510cffbb214858885d81866b2a1422b83e655d5b1a8f402c4e7b337b2b500cbf"
+    },
+    {
+      "frame": 5,
+      "file": "frames/baxi_dance_03_v0_9_hotfix3_005.png",
+      "bbox_out": [
+        302,
+        482,
+        419,
+        433
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 4,
+      "sha256": "e1639bbe889b5218b04ef0e531af1b7f90ea4fb3b44f0bb4a06108a60365af2d"
+    },
+    {
+      "frame": 6,
+      "file": "frames/baxi_dance_03_v0_9_hotfix3_006.png",
+      "bbox_out": [
+        302,
+        473,
+        420,
+        442
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 5,
+      "sha256": "e19ed0445756fa8345cd94e870dc83ec629a583ca0737f9a2a5f14b3346bc9a8"
+    },
+    {
+      "frame": 7,
+      "file": "frames/baxi_dance_03_v0_9_hotfix3_007.png",
+      "bbox_out": [
+        300,
+        470,
+        425,
+        445
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 6,
+      "sha256": "6810645dd2a0c1c2d3f0ba8e32f80a8a7842771febbe717c42a8ca4cddd9921d"
+    },
+    {
+      "frame": 8,
+      "file": "frames/baxi_dance_03_v0_9_hotfix3_008.png",
+      "bbox_out": [
+        300,
+        474,
+        424,
+        441
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 7,
+      "sha256": "efec9763f1ea6a3ec3a30831519940fe0be133537bcf9df21cd0b1474205e0ac"
+    },
+    {
+      "frame": 9,
+      "file": "frames/baxi_dance_03_v0_9_hotfix3_009.png",
+      "bbox_out": [
+        295,
+        480,
+        434,
+        435
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 8,
+      "sha256": "aef1ee5bdd8c7418eb399b9663fcc8cbe60a0433d8b10c78737861c2b14a719d"
+    },
+    {
+      "frame": 10,
+      "file": "frames/baxi_dance_03_v0_9_hotfix3_010.png",
+      "bbox_out": [
+        288,
+        477,
+        447,
+        438
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 9,
+      "sha256": "df53dfd3b6ddbbe7f3ca7bd402e136a0e627d2c2374e09dc693481d21e60c6fc"
+    },
+    {
+      "frame": 11,
+      "file": "frames/baxi_dance_03_v0_9_hotfix3_011.png",
+      "bbox_out": [
+        294,
+        472,
+        436,
+        443
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 10,
+      "sha256": "7fc0d43b5ebfe9014673ab039382ee448552e7fd82c91f6bbede4561aed65688"
+    },
+    {
+      "frame": 12,
+      "file": "frames/baxi_dance_03_v0_9_hotfix3_012.png",
+      "bbox_out": [
+        296,
+        450,
+        432,
+        465
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 11,
+      "sha256": "bf88775f671fe2ea09eaa3274d968efa28dec38d9a1e9107b2dbd2cd9ebbc14c"
+    },
+    {
+      "frame": 13,
+      "file": "frames/baxi_dance_03_v0_9_hotfix3_013.png",
+      "bbox_out": [
+        296,
+        452,
+        431,
+        463
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 12,
+      "sha256": "eec86d2d4d18d67849cd9ae9ce02796c03113ae64d21a29fe32b5c1e35842398"
+    },
+    {
+      "frame": 14,
+      "file": "frames/baxi_dance_03_v0_9_hotfix3_014.png",
+      "bbox_out": [
+        294,
+        472,
+        437,
+        443
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 13,
+      "sha256": "32d47d34fcff87b221c267d292bc439c97114e175d80f5c5ba4c07e2e8e764c9"
+    },
+    {
+      "frame": 15,
+      "file": "frames/baxi_dance_03_v0_9_hotfix3_015.png",
+      "bbox_out": [
+        287,
+        488,
+        450,
+        427
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 14,
+      "sha256": "1ca49e1bffc6fe3007ec1e7cdd6091c47b3a533589bae7bf0bf12b24fccca214"
+    },
+    {
+      "frame": 16,
+      "file": "frames/baxi_dance_03_v0_9_hotfix3_016.png",
+      "bbox_out": [
+        278,
+        500,
+        467,
+        415
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 15,
+      "sha256": "1b820c693f81e213f3c64bb6ba3d4284e3862c50d89cc3a9087d0e03fc99ae5e"
+    },
+    {
+      "frame": 17,
+      "file": "frames/baxi_dance_03_v0_9_hotfix3_017.png",
+      "bbox_out": [
+        270,
+        509,
+        483,
+        406
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 16,
+      "sha256": "259e0e75eca0d9b987100feb1b517504b3c5d6981262546a094dc43a9e06ea10"
+    },
+    {
+      "frame": 18,
+      "file": "frames/baxi_dance_03_v0_9_hotfix3_018.png",
+      "bbox_out": [
+        256,
+        518,
+        513,
+        397
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 17,
+      "sha256": "f2fc737a68ed8d1f4077b3290e9e72a749b34a34c58585b47679ee2962a90730"
+    }
+  ]
+}

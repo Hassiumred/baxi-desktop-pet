@@ -1,0 +1,273 @@
+{
+  "action": "stretch_front",
+  "version": "v0_7",
+  "canvas": [
+    1024,
+    1024
+  ],
+  "foot_anchor": [
+    512,
+    914
+  ],
+  "bbox_out_format": "xywh",
+  "fps_suggested": 6,
+  "looping": "one_shot_return_idle",
+  "frames": [
+    {
+      "frame": 1,
+      "file": "frames/baxi_stretch_front_v0_7_001.png",
+      "bbox_out": [
+        300,
+        459,
+        424,
+        456
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 1,
+      "sha256": "acb9550441c10b55fbafc941d1172f3124d0a9a3ceff4b59c4780c1dd00ebb01"
+    },
+    {
+      "frame": 2,
+      "file": "frames/baxi_stretch_front_v0_7_002.png",
+      "bbox_out": [
+        300,
+        458,
+        424,
+        457
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 2,
+      "sha256": "a4856d3f7517fa89902a743151c9ee3286373491443aad39bb2ff172d472afd0"
+    },
+    {
+      "frame": 3,
+      "file": "frames/baxi_stretch_front_v0_7_003.png",
+      "bbox_out": [
+        304,
+        451,
+        417,
+        464
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 3,
+      "sha256": "e0120427bc284e98cff7ac58d6bd49f7e73fc97fe345bef4d3b80cc1df2af24b"
+    },
+    {
+      "frame": 4,
+      "file": "frames/baxi_stretch_front_v0_7_004.png",
+      "bbox_out": [
+        307,
+        444,
+        411,
+        471
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 4,
+      "sha256": "91dacb6bd6c324c063f4955b5269e306c2b9adcb97b436a16be6cb127bc36f38"
+    },
+    {
+      "frame": 5,
+      "file": "frames/baxi_stretch_front_v0_7_005.png",
+      "bbox_out": [
+        311,
+        435,
+        403,
+        480
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 5,
+      "sha256": "b43a26dc4d0fd8839ef41deaffb828c9664798edc262c035dcbc31d31fc5b024"
+    },
+    {
+      "frame": 6,
+      "file": "frames/baxi_stretch_front_v0_7_006.png",
+      "bbox_out": [
+        313,
+        430,
+        399,
+        485
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 6,
+      "sha256": "4d932cd5326b8f05ff7ec060bcf1fae813d04d629fd9f41b05ca1ebf58b32ac7"
+    },
+    {
+      "frame": 7,
+      "file": "frames/baxi_stretch_front_v0_7_007.png",
+      "bbox_out": [
+        314,
+        427,
+        397,
+        488
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 7,
+      "sha256": "d8263c42a1edf50b60cc7851e2a2f990ccf010ef9351ab5f2803eed79bee15cf"
+    },
+    {
+      "frame": 8,
+      "file": "frames/baxi_stretch_front_v0_7_008.png",
+      "bbox_out": [
+        313,
+        430,
+        399,
+        485
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 8,
+      "sha256": "ea6cacd77b47bb53fe425906273892bba255af53accd56ef6ba160b566d893e0"
+    },
+    {
+      "frame": 9,
+      "file": "frames/baxi_stretch_front_v0_7_009.png",
+      "bbox_out": [
+        313,
+        428,
+        398,
+        487
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 9,
+      "sha256": "63083fd2d9e68a084951ebc476e210176e8676243c2e7703a21894f242c1073a"
+    },
+    {
+      "frame": 10,
+      "file": "frames/baxi_stretch_front_v0_7_010.png",
+      "bbox_out": [
+        312,
+        431,
+        400,
+        484
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 10,
+      "sha256": "ccfcffde536f582f9f12ef24f0c0f47a0b17158746e76c734a9402b7d6ce5d51"
+    },
+    {
+      "frame": 11,
+      "file": "frames/baxi_stretch_front_v0_7_011.png",
+      "bbox_out": [
+        312,
+        431,
+        400,
+        484
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 11,
+      "sha256": "2ec5dd2f104718b562e97d680c757151947e8ec158c547936653682acf2546d3"
+    },
+    {
+      "frame": 12,
+      "file": "frames/baxi_stretch_front_v0_7_012.png",
+      "bbox_out": [
+        316,
+        423,
+        393,
+        492
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 12,
+      "sha256": "400f4b3112f7ab5b4fe71b406a23778b15c690383452735353f21fa3e6e1a13b"
+    },
+    {
+      "frame": 13,
+      "file": "frames/baxi_stretch_front_v0_7_013.png",
+      "bbox_out": [
+        313,
+        430,
+        399,
+        485
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 13,
+      "sha256": "b3953052d139ca5f6a542fb73100cf4a87a47bb0e1ddf33ef92e1ea68889989b"
+    },
+    {
+      "frame": 14,
+      "file": "frames/baxi_stretch_front_v0_7_014.png",
+      "bbox_out": [
+        309,
+        439,
+        407,
+        476
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 14,
+      "sha256": "abeb83d4a11044c02ed70f13d466ba9bd486946613ad769b0e88794590b3e82e"
+    },
+    {
+      "frame": 15,
+      "file": "frames/baxi_stretch_front_v0_7_015.png",
+      "bbox_out": [
+        307,
+        443,
+        410,
+        472
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 15,
+      "sha256": "445dc46057d9cc77b218c19fdd4b39c87713c3bb2afeaaa5c0702f55d160deef"
+    },
+    {
+      "frame": 16,
+      "file": "frames/baxi_stretch_front_v0_7_016.png",
+      "bbox_out": [
+        304,
+        450,
+        417,
+        465
+      ],
+      "foot_anchor": [
+        512,
+        914
+      ],
+      "source_frame": 16,
+      "sha256": "d66909a6d02a06de3a925d804f6c8c9838b233b79aac2430c02b5a91f9b1c005"
+    }
+  ]
+}

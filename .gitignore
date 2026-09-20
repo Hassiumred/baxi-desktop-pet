@@ -23,5 +23,3 @@ dist/
 .idea/
 .DS_Store
 Thumbs.db
-# Unreviewed art stays excluded until rights review is complete
-app/assets/baxi/actions/
